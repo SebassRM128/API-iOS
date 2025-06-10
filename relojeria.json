@@ -1,0 +1,25 @@
+{
+  "producto": [
+    {
+      "id": 1,
+      "nombre": "Maserati",
+      "precio": "$9800.00",
+      "categoria": "Clasico",
+      "imagen": "https://raw.githubusercontent.com/SebassRM128/imgg/refs/heads/main/verde.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Sthurling",
+      "precio": "$5400.00",
+      "categoria": "Clasico ",
+      "imagen": "https://raw.githubusercontent.com/SebassRM128/imgg/refs/heads/main/reloj.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Maserati",
+      "precio": "$6200.00",
+      "categoria": "Deportivo",
+      "imagen": "https://raw.githubusercontent.com/SebassRM128/imgg/refs/heads/main/mase.png"
+    }
+  ]
+}
